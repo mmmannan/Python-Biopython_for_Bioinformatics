@@ -1,1 +1,1 @@
-# Python-Biopython_for_Bioinformatics
+# Python/Biopython_for_Bioinformatics
